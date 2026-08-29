@@ -1,5 +1,5 @@
 ![](/public/icon-96.png)
-# Mailflare
+# Mailflare.
 
 A self-hosted, AI-powered email inbox with custom domains, powered by Cloudflare
 
